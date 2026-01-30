@@ -35,3 +35,16 @@ coverage/
 
 # Drizzle (manter migrations no Git)
 # drizzle/
+
+# Documentação temporária do LinkedIn
+LINKEDIN_POST.md
+EVIDENCIAS_LINKEDIN.md
+EXEMPLOS_SAIDA.md
+CODIGO_DESTAQUE.md
+TEMPLATE_POST_LINKEDIN.md
+CHECKLIST_LINKEDIN.md
+RESUMO_EVIDENCIAS.md
+INDEX_EVIDENCIAS.md
+README_EVIDENCIAS.txt
+gerar-evidencias.sh
+evidencias/
